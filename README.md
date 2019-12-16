@@ -1,0 +1,1 @@
+Description and results at [https://www.simonwenkel.com/2019/12/15/using-public-traffic-surveillance-cameras-to-build-a-traffic-counter.html](https://www.simonwenkel.com/2019/12/15/using-public-traffic-surveillance-cameras-to-build-a-traffic-counter.html).
